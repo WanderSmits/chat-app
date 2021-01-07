@@ -1,24 +1,10 @@
-# vue-firebase-chatt
+# :speaking_head: movIEZ :speaking_head:
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+ :scream_cat: A realtime chat application with google auth. :scream_cat:
+ 
+ :fire: Storing messages in Cloud Firestore :fire:
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+[Live demo](https://chatapp-13a17.web.app)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
